@@ -19,4 +19,4 @@ Installation Instructions
 -------------------------
 
 1. Download and install the [Speakeasy 0.9.2](https://maven.atlassian.com/content/repositories/atlassian-public/com/atlassian/labs/speakeasy-plugin/0.9.2/speakeasy-plugin-0.9.2.jar) plugin into Confluence or JIRA
-2. Download [aui-enhancements-1.0.jar](https://github.com/downloads/jollytoad/AUI-Enhancements/aui-enhancements-1.0.jar) and install as a Speakeasy extension
+2. Download [aui-enhancements-1.0.zip](https://github.com/downloads/jollytoad/AUI-Enhancements/aui-enhancements-1.0.zip) and install as a Speakeasy extension
