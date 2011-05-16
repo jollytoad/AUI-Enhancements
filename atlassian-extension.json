@@ -1,0 +1,10 @@
+{
+  "key":       "aui-enhancements",
+  "name":      "AUI Enhancements",
+  "description":  "Allow AUI dialogs to be moved and scaled, and allow blanket to be removed.",
+  "version":    "1",
+  
+  "vendor": {  "name": "Mark Gibson",
+           "url": "http://example.com/extension-homepage.html",
+           "email": "jollytoad@gmail.com" }
+}
